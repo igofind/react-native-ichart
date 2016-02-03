@@ -15,10 +15,34 @@
     "ichart",
     "react-native"
   ],
-  "author": "AdonRain",
+  "author": {
+    "name": "AdonRain"
+  },
   "license": "Apache-2.0",
   "bugs": {
     "url": "https://github.com/AdonRain/react-native-ichart/issues"
   },
-  "homepage": "https://github.com/AdonRain/react-native-ichart#readme"
+  "homepage": "https://github.com/AdonRain/react-native-ichart#readme",
+  "gitHead": "3c16a8d04c381376cf3c8b50ae13eb1ec881001d",
+  "_id": "react-native-ichart@0.0.5",
+  "_shasum": "94003d55ffa6ff284568767304cfd4ae029f8803",
+  "_from": "react-native-ichart@*",
+  "_npmVersion": "3.4.1",
+  "_nodeVersion": "4.2.2",
+  "_npmUser": {
+    "name": "apro",
+    "email": "leids@foxmail.com"
+  },
+  "dist": {
+    "shasum": "94003d55ffa6ff284568767304cfd4ae029f8803",
+    "tarball": "http://registry.npmjs.org/react-native-ichart/-/react-native-ichart-0.0.5.tgz"
+  },
+  "maintainers": [
+    {
+      "name": "apro",
+      "email": "leids@foxmail.com"
+    }
+  ],
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/react-native-ichart/-/react-native-ichart-0.0.5.tgz"
 }
