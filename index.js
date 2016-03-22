@@ -41,7 +41,7 @@ export default React.createClass({
     return (
       <View>
         <WebView
-          html={this.createHTML(renderString)}
+          source={{html: this.createHTML(renderString)}}
           style={this.props.style}
           automaticallyAdjustContentInsets={false}
           contentInset={{top: 0, right: 0, bottom: 0, left: 0}}
